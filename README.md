@@ -1,17 +1,6 @@
 COVID-19 and Global Happiness Analysis
 This project explores the relationship between the spread of COVID-19 and key global happiness indicators such as GDP per capita, social support, and life expectancy. It combines COVID-19 case data with the Worldwide Happiness Report to investigate how a country’s well-being metrics correlate with the infection rate.
 
-Project Structure
-kotlin
-Copy
-Edit
-covid-happiness-analysis/
-├── data/
-│   ├── covid19_Confirmed_dataset.csv
-│   ├── covid19_deaths_dataset.csv
-│   └── worldwide_happiness_report.csv
-├── covid_happiness_analysis.ipynb
-└── README.md
 Objective
 To:
 
